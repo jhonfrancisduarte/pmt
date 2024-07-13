@@ -1,0 +1,1648 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: AllX\n"
+"POT-Creation-Date: 2023-11-15 14:26+0200\n"
+"PO-Revision-Date: 2023-11-27 10:24+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:9
+msgid "Error 404"
+msgstr "Error 404"
+
+#: 404.php:12
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+
+#: attachment.php:28 single.php:25
+msgid " Previous"
+msgstr " Previous"
+
+#: attachment.php:31 single.php:28
+msgid "Next "
+msgstr "Next "
+
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "Os comentários estão encerrados."
+
+#: footer.php:41 footer.php:53
+msgid "AllX Theme by SEOS THEMES"
+msgstr ""
+
+#: footer.php:46
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:48
+msgid "Powered by WordPress"
+msgstr "Powered by WordPress"
+
+#: footer.php:52
+msgid "All rights reserved"
+msgstr "All rights reserved"
+
+#: functions.php:52
+msgid "Cover height 100px"
+msgstr ""
+
+#: functions.php:57
+msgid "Cover height 200px"
+msgstr ""
+
+#: functions.php:62
+msgid "Cover height 300px"
+msgstr ""
+
+#: functions.php:67
+msgid "Cover height 400px"
+msgstr ""
+
+#: functions.php:72
+msgid "Cover height 500px"
+msgstr ""
+
+#: functions.php:77
+msgid "Rounded corners (Requires background color). Border radius 5px"
+msgstr ""
+
+#: functions.php:84
+msgid "Rounded corners (Requires background color). Border radius 10px"
+msgstr ""
+
+#: functions.php:92
+msgid "Primary"
+msgstr "Primary"
+
+#: functions.php:122
+msgid "Default Image 1"
+msgstr ""
+
+#: functions.php:151
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:153
+msgid "Add widgets here."
+msgstr "Add widgets here."
+
+#: functions.php:161
+msgid "Footer 1"
+msgstr "Footer 1"
+
+#: functions.php:170
+msgid "Footer 2"
+msgstr "Footer 2"
+
+#: functions.php:179
+msgid "Footer 3"
+msgstr "Footer 3"
+
+#: functions.php:188
+msgid "Footer 4"
+msgstr "Footer 4"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: include/animations/animations.php:25 include/animations/animations.php:75
+#: include/categories-templates.php:5 include/categories-templates.php:37
+#: include/customizer.php:16
+msgid "Default"
+msgstr "Default"
+
+#: include/animations/animations.php:26 include/animations/animations.php:74
+#: include/top-icons/top-icons.php:12
+msgid "Deactivate Animation"
+msgstr ""
+
+#: include/animations/animations.php:27
+msgid "fade"
+msgstr "fade"
+
+#: include/animations/animations.php:28
+msgid "fade-up"
+msgstr ""
+
+#: include/animations/animations.php:29
+msgid "fade-down"
+msgstr ""
+
+#: include/animations/animations.php:30
+msgid "fade-left"
+msgstr ""
+
+#: include/animations/animations.php:31
+msgid "fade-right"
+msgstr ""
+
+#: include/animations/animations.php:32
+msgid "fade-up-right"
+msgstr ""
+
+#: include/animations/animations.php:33
+msgid "fade-up-left"
+msgstr ""
+
+#: include/animations/animations.php:34
+msgid "fade-down-right"
+msgstr ""
+
+#: include/animations/animations.php:35
+msgid "fade-down-left"
+msgstr ""
+
+#: include/animations/animations.php:36
+msgid "flip-up"
+msgstr ""
+
+#: include/animations/animations.php:37
+msgid "flip-down"
+msgstr ""
+
+#: include/animations/animations.php:38
+msgid "flip-left"
+msgstr ""
+
+#: include/animations/animations.php:39
+msgid "flip-right"
+msgstr ""
+
+#: include/animations/animations.php:40
+msgid "slide-up"
+msgstr ""
+
+#: include/animations/animations.php:41
+msgid "slide-down"
+msgstr ""
+
+#: include/animations/animations.php:42
+msgid "slide-left"
+msgstr ""
+
+#: include/animations/animations.php:43
+msgid "slide-right"
+msgstr ""
+
+#: include/animations/animations.php:44
+msgid "zoom-in"
+msgstr ""
+
+#: include/animations/animations.php:45
+msgid "zoom-in-up"
+msgstr ""
+
+#: include/animations/animations.php:46
+msgid "zoom-in-down"
+msgstr ""
+
+#: include/animations/animations.php:47
+msgid "zoom-in-left"
+msgstr ""
+
+#: include/animations/animations.php:48
+msgid "zoom-in-right"
+msgstr ""
+
+#: include/animations/animations.php:49
+msgid "zoom-out"
+msgstr ""
+
+#: include/animations/animations.php:50
+msgid "zoom-out-up"
+msgstr ""
+
+#: include/animations/animations.php:51
+msgid "zoom-out-down"
+msgstr ""
+
+#: include/animations/animations.php:52
+msgid "zoom-out-left"
+msgstr ""
+
+#: include/animations/animations.php:53
+msgid "zoom-out-right"
+msgstr ""
+
+#: include/animations/animations.php:67
+msgid "Animations"
+msgstr "Animations"
+
+#: include/animations/animations.php:76 include/top-icons/top-icons.php:13
+msgid "fadeIn"
+msgstr ""
+
+#: include/animations/animations.php:77 include/top-icons/top-icons.php:17
+msgid "bounce"
+msgstr ""
+
+#: include/animations/animations.php:78 include/top-icons/top-icons.php:18
+msgid "bounceIn"
+msgstr ""
+
+#: include/animations/animations.php:79 include/top-icons/top-icons.php:19
+msgid "bounceInDown"
+msgstr ""
+
+#: include/animations/animations.php:80 include/top-icons/top-icons.php:20
+msgid "bounceInLeft"
+msgstr ""
+
+#: include/animations/animations.php:81 include/top-icons/top-icons.php:21
+msgid "bounceInRight"
+msgstr ""
+
+#: include/animations/animations.php:82 include/top-icons/top-icons.php:22
+msgid "bounceInUp"
+msgstr ""
+
+#: include/animations/animations.php:83 include/top-icons/top-icons.php:23
+msgid "fadeInDownBig"
+msgstr ""
+
+#: include/animations/animations.php:84 include/top-icons/top-icons.php:24
+msgid "fadeInLeft"
+msgstr ""
+
+#: include/animations/animations.php:85 include/top-icons/top-icons.php:25
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: include/animations/animations.php:86 include/top-icons/top-icons.php:26
+msgid "fadeInRight"
+msgstr ""
+
+#: include/animations/animations.php:87 include/top-icons/top-icons.php:27
+msgid "fadeInRightBig"
+msgstr ""
+
+#: include/animations/animations.php:88 include/top-icons/top-icons.php:28
+msgid "fadeInUp"
+msgstr ""
+
+#: include/animations/animations.php:89 include/top-icons/top-icons.php:29
+msgid "fadeInUpBig"
+msgstr ""
+
+#: include/animations/animations.php:90 include/top-icons/top-icons.php:30
+msgid "flash"
+msgstr ""
+
+#: include/animations/animations.php:91 include/top-icons/top-icons.php:34
+msgid "lightSpeedIn"
+msgstr ""
+
+#: include/animations/animations.php:92 include/top-icons/top-icons.php:35
+msgid "pulse"
+msgstr ""
+
+#: include/animations/animations.php:93 include/top-icons/top-icons.php:36
+msgid "rollIn"
+msgstr ""
+
+#: include/animations/animations.php:94 include/top-icons/top-icons.php:37
+msgid "rotateIn"
+msgstr ""
+
+#: include/animations/animations.php:95 include/top-icons/top-icons.php:38
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: include/animations/animations.php:96 include/top-icons/top-icons.php:39
+msgid "rotateInDownRight"
+msgstr ""
+
+#: include/animations/animations.php:97 include/top-icons/top-icons.php:40
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: include/animations/animations.php:98 include/top-icons/top-icons.php:41
+msgid "rotateInUpRight"
+msgstr ""
+
+#: include/animations/animations.php:99 include/top-icons/top-icons.php:42
+msgid "shake"
+msgstr ""
+
+#: include/animations/animations.php:100 include/top-icons/top-icons.php:43
+msgid "slideInDown"
+msgstr ""
+
+#: include/animations/animations.php:101 include/top-icons/top-icons.php:44
+msgid "slideInLeft"
+msgstr ""
+
+#: include/animations/animations.php:102 include/top-icons/top-icons.php:45
+msgid "slideInRight"
+msgstr ""
+
+#: include/animations/animations.php:103 include/top-icons/top-icons.php:46
+msgid "slideInUp"
+msgstr ""
+
+#: include/animations/animations.php:104 include/top-icons/top-icons.php:47
+msgid "swing"
+msgstr "swing"
+
+#: include/animations/animations.php:105 include/top-icons/top-icons.php:48
+msgid "tada"
+msgstr ""
+
+#: include/animations/animations.php:106 include/top-icons/top-icons.php:49
+msgid "wobble"
+msgstr ""
+
+#: include/animations/animations.php:107 include/top-icons/top-icons.php:51
+msgid "zoomInDown"
+msgstr ""
+
+#: include/animations/animations.php:108 include/top-icons/top-icons.php:52
+msgid "zoomInLeft"
+msgstr ""
+
+#: include/animations/animations.php:109 include/top-icons/top-icons.php:53
+msgid "zoomInRight"
+msgstr ""
+
+#: include/animations/animations.php:110 include/top-icons/top-icons.php:54
+msgid "zoomInUp"
+msgstr ""
+
+#: include/animations/animations.php:129 include/animations/animations.php:137
+msgid "Animation Articles"
+msgstr ""
+
+#: include/back-to-top/back-to-top-button.php:14
+msgid "Back To Top Button Options"
+msgstr ""
+
+#: include/back-to-top/back-to-top-button.php:22
+msgid "Activate Back To Top Button"
+msgstr ""
+
+#: include/back-to-top/back-to-top-button.php:33
+msgid "Button Color"
+msgstr "Button Color"
+
+#: include/back-to-top/back-to-top-button.php:42
+msgid "Button Hover Color"
+msgstr ""
+
+#: include/back-to-top/back-to-top-button.php:51
+#: include/templates-home/layout-left.php:140
+#: include/templates-home/layout-right.php:135
+msgid "Button Background Color"
+msgstr "Button Background Color"
+
+#: include/back-to-top/back-to-top-button.php:60
+#: include/templates-home/layout-left.php:150
+#: include/templates-home/layout-right.php:145
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: include/categories-options.php:9
+msgid "Default Categories Page Options"
+msgstr ""
+
+#: include/categories-options.php:18 include/read-more-button.php:49
+msgid "Read More Text"
+msgstr "Read More Text"
+
+#: include/categories-options.php:31
+msgid "Activate Read More Icons"
+msgstr ""
+
+#: include/categories-templates.php:6 include/categories-templates.php:38
+msgid "Template 1"
+msgstr "Template 1"
+
+#: include/categories-templates.php:7 include/categories-templates.php:39
+msgid "Template 2"
+msgstr "Template 2"
+
+#: include/categories-templates.php:22 include/categories-templates.php:32
+msgid "Categories Templates"
+msgstr ""
+
+#: include/color-scheme.php:10 include/color-scheme.php:17
+msgid "Color Scheme"
+msgstr "Color Scheme"
+
+#: include/color-scheme.php:27
+msgid "Hover Color"
+msgstr "Hover Color"
+
+#: include/colors.php:15
+msgid "Article Background"
+msgstr ""
+
+#: include/colors.php:25
+msgid "Sidebar Background"
+msgstr ""
+
+#: include/colors.php:35
+msgid "Header Top Background"
+msgstr ""
+
+#: include/colors.php:45
+msgid "Header Top Text Color"
+msgstr ""
+
+#: include/colors.php:54
+msgid "Header Top Text Hover Color"
+msgstr ""
+
+#: include/colors.php:64
+msgid "Header Top Border Color"
+msgstr ""
+
+#: include/colors.php:73
+msgid "Sticky Post Background"
+msgstr ""
+
+#: include/colors.php:83
+msgid "Footer Background"
+msgstr "Footer Background"
+
+#: include/content-customizer.php:8
+msgid "Content Options"
+msgstr ""
+
+#: include/content-customizer.php:20
+msgid "Content Padding"
+msgstr "Content Padding"
+
+#: include/content-customizer.php:32
+msgid "Hide sidebar and content on home page"
+msgstr ""
+
+#: include/content-customizer.php:44
+msgid "Show featured images on all single pages."
+msgstr ""
+
+#: include/content-customizer.php:56
+msgid "Hide all single page and post titles"
+msgstr ""
+
+#: include/content-customizer.php:68
+msgid "Article Text Align - Justify"
+msgstr ""
+
+#: include/content-customizer.php:80
+msgid "Activate Border Shadows"
+msgstr ""
+
+#: include/customize-pro/class-customize.php:150
+msgid "UPGRADE TO PRO"
+msgstr "UPGRADE TO PRO"
+
+#: include/customizer.php:15 include/customizer.php:48
+#: include/typography.php:65
+msgid "None"
+msgstr "None"
+
+#: include/customizer.php:17 include/customizer.php:49
+msgid "Shadow 1"
+msgstr ""
+
+#: include/customizer.php:18 include/customizer.php:50
+msgid "Shadow 2"
+msgstr ""
+
+#: include/customizer.php:19 include/customizer.php:51
+msgid "Shadow 3"
+msgstr ""
+
+#: include/customizer.php:20 include/customizer.php:52
+msgid "Shadow 4"
+msgstr ""
+
+#: include/customizer.php:21 include/customizer.php:53
+msgid "Shadow 5"
+msgstr ""
+
+#: include/customizer.php:22 include/customizer.php:54
+msgid "Shadow 6"
+msgstr ""
+
+#: include/customizer.php:23 include/customizer.php:55
+msgid "Shadow 7"
+msgstr ""
+
+#: include/customizer.php:24 include/customizer.php:56
+msgid "Shadow 8"
+msgstr ""
+
+#: include/customizer.php:25 include/customizer.php:57
+msgid "Shadow 9"
+msgstr ""
+
+#: include/customizer.php:26
+msgid "Shadow 10"
+msgstr ""
+
+#: include/customizer.php:27
+msgid "Shadow 11"
+msgstr ""
+
+#: include/customizer.php:28
+msgid "Shadow 12"
+msgstr ""
+
+#: include/customizer.php:29
+msgid "Shadow 13"
+msgstr ""
+
+#: include/customizer.php:30
+msgid "Shadow 14"
+msgstr ""
+
+#: include/customizer.php:31
+msgid "Shadow 15"
+msgstr ""
+
+#: include/customizer.php:32
+msgid "Shadow 16"
+msgstr ""
+
+#: include/customizer.php:33
+msgid "Shadow 17"
+msgstr ""
+
+#: include/customizer.php:91
+msgid "Background Color "
+msgstr "Background Colour"
+
+#: include/customizer.php:106
+msgid "center center"
+msgstr ""
+
+#: include/customizer.php:107 include/customizer.php:256
+msgid "Real Size (Deactivate the image height.)"
+msgstr ""
+
+#: include/customizer.php:117 include/customizer.php:150
+#: include/top-icons/top-icons.php:71 include/top-icons/top-icons.php:109
+msgid "Home Page"
+msgstr "Home Page"
+
+#: include/customizer.php:118 include/customizer.php:151
+#: include/top-icons/top-icons.php:72 include/top-icons/top-icons.php:110
+msgid "All Pages"
+msgstr "All Pages"
+
+#: include/customizer.php:133
+msgid "Body Background Color"
+msgstr "Body Background Color"
+
+#: include/customizer.php:144
+msgid "Activate Header Image"
+msgstr ""
+
+#: include/customizer.php:161
+msgid "Dectivate Image Zoom:"
+msgstr ""
+
+#: include/customizer.php:177
+msgid "Activate Single Page Title like Site Title"
+msgstr ""
+
+#: include/customizer.php:184
+msgid "Activate Header Text Shadow:"
+msgstr ""
+
+#: include/customizer.php:196
+msgid "Dectivate Text Animation:"
+msgstr ""
+
+#: include/customizer.php:210
+msgid "Video"
+msgstr "Video"
+
+#: include/customizer.php:211
+msgid ""
+"If you upload a video instead of a header image, all header image options "
+"will be disabled. Also the video will take priority and if you have a header "
+"image it will not be visible. The video size is be default and video is "
+"muted."
+msgstr ""
+
+#: include/customizer.php:223
+msgid "Activate Video Loop"
+msgstr ""
+
+#: include/customizer.php:237
+msgid "Image Height"
+msgstr "Image Height"
+
+#: include/customizer.php:249
+msgid "Image Position"
+msgstr ""
+
+#: include/customizer.php:255
+msgid "Background Cover (center center)"
+msgstr ""
+
+#: include/customizer.php:266
+msgid "Header Image Overlay"
+msgstr ""
+
+#: include/customizer.php:279
+msgid "Header Image Shadow"
+msgstr ""
+
+#: include/customizer.php:311
+msgid "Logo Custom Width in px "
+msgstr ""
+
+#: include/customizer.php:324
+msgid "Site Title and Tagline Align Center"
+msgstr ""
+
+#: include/customizer.php:338
+msgid "Site Title and Tagline - Margin Top in %"
+msgstr ""
+
+#: include/dark-mode/dark-mode.php:20 include/dark-mode/dark-mode.php:48
+msgid "Activate Dark Mode"
+msgstr ""
+
+#: include/dark-mode/dark-mode.php:21 include/dark-mode/dark-mode.php:49
+msgid "Activate White Mode"
+msgstr ""
+
+#: include/dark-mode/dark-mode.php:31
+msgid "Button Dark Mode"
+msgstr ""
+
+#: include/dark-mode/dark-mode.php:41
+msgid "Activate Dark and White Mode"
+msgstr ""
+
+#: include/dark-mode/dark-mode.php:42
+msgid "This option allows you to switch between dark and white mode."
+msgstr ""
+
+#: include/footer-options.php:8
+msgid "Footer Options"
+msgstr "Footer Options"
+
+#: include/footer-options.php:15
+msgid "Custom Copyright "
+msgstr ""
+
+#: include/footer-options.php:26
+msgid "Footer Image"
+msgstr ""
+
+#: include/footer-options.php:35
+msgid "Background Color Footer"
+msgstr ""
+
+#: include/header-buttons.php:16
+msgid "Homepage Header Buttons"
+msgstr ""
+
+#: include/header-buttons.php:26
+msgid "Button 1 Text"
+msgstr "Button 1 Text"
+
+#: include/header-buttons.php:27 include/header-buttons.php:64
+msgid "The button will be activated if you insert text"
+msgstr ""
+
+#: include/header-buttons.php:38
+msgid "Button 1 URL"
+msgstr "Button 1 URL"
+
+#: include/header-buttons.php:51
+msgid "Button 1 Animation"
+msgstr ""
+
+#: include/header-buttons.php:63
+msgid "Button 2 Text"
+msgstr "Button 2 Text"
+
+#: include/header-buttons.php:75
+msgid "Button 2 URL"
+msgstr ""
+
+#: include/header-buttons.php:84
+msgid "Button 2 Animation"
+msgstr ""
+
+#: include/header-top.php:12
+msgid "Header Top"
+msgstr "Header Top"
+
+#: include/header-top.php:20
+msgid "Deactivate Header Top"
+msgstr ""
+
+#: include/header-top.php:31
+msgid "E-mail"
+msgstr "E-mail"
+
+#: include/header-top.php:112 include/header-top.php:151
+#: include/header-top.php:176
+msgid "Menu"
+msgstr "Menu"
+
+#: include/header-top.php:207 include/header-top.php:210
+#: include/header-top.php:259 include/header-top.php:262
+msgid "header image"
+msgstr ""
+
+#: include/menu-options.php:41 include/menu-options.php:125
+#: include/sidebar-position.php:16 include/sidebar-position.php:48
+#: include/sidebar-position.php:76 include/sidebar-position.php:92
+msgid "Left"
+msgstr "Left"
+
+#: include/menu-options.php:42 include/menu-options.php:126
+#: include/sidebar-position.php:17 include/sidebar-position.php:49
+#: include/sidebar-position.php:77 include/sidebar-position.php:93
+msgid "Right"
+msgstr "Right"
+
+#: include/menu-options.php:43 include/menu-options.php:127
+msgid "Center"
+msgstr "Center"
+
+#: include/menu-options.php:58
+msgid "Menu Options"
+msgstr "Menu Options"
+
+#: include/menu-options.php:68
+msgid "Hide Menu Top"
+msgstr ""
+
+#: include/menu-options.php:80
+msgid "Activate search"
+msgstr ""
+
+#: include/menu-options.php:93
+msgid "Activate WooCommerce Cart"
+msgstr ""
+
+#: include/menu-options.php:106
+msgid "Deactivate menu top position absolute"
+msgstr ""
+
+#: include/menu-options.php:107
+msgid "The option is active only if has header image or video."
+msgstr ""
+
+#: include/menu-options.php:119
+msgid "Menu Top Position"
+msgstr ""
+
+#: include/menu-options.php:142
+msgid "Menu Top Font Size"
+msgstr ""
+
+#: include/menu-options.php:155
+msgid "Menu Top Font Weight"
+msgstr ""
+
+#: include/menu-options.php:167
+msgid "Menu Top Font"
+msgstr ""
+
+#: include/menu-options.php:182
+msgid "Menu Top Text Transform"
+msgstr ""
+
+#: include/menu-options.php:202 include/menu-options.php:226
+msgid "Menu Top Background"
+msgstr ""
+
+#: include/menu-options.php:203
+msgid "When there is a header image and menu position absolute"
+msgstr ""
+
+#: include/menu-options.php:227
+msgid "When there is no header image or video"
+msgstr ""
+
+#: include/menu-options.php:238
+msgid "Menu Top Color"
+msgstr ""
+
+#: include/menu-options.php:248
+msgid "Menu Top Hover Color"
+msgstr ""
+
+#: include/menu-options.php:258
+msgid "Menu Border Top Color"
+msgstr ""
+
+#: include/menu-options.php:267
+msgid "Sub Menu Top Color"
+msgstr ""
+
+#: include/menu-options.php:277
+msgid "Sub Menu Top Hover Color"
+msgstr ""
+
+#: include/menu-options.php:287
+msgid "Sub Menu Top Border Top Color"
+msgstr ""
+
+#: include/menu-options.php:296
+msgid "Sub Menu Top Background Color"
+msgstr ""
+
+#: include/menu-options.php:306
+msgid "Sub Menu Top Background Hover Color"
+msgstr ""
+
+#: include/post-options.php:11 include/pro/pro.php:185
+msgid "Post Options"
+msgstr "Post Options"
+
+#: include/post-options.php:18
+msgid "Hide Author"
+msgstr ""
+
+#: include/post-options.php:29
+msgid "Hide Calendar"
+msgstr ""
+
+#: include/post-options.php:40
+msgid "Hide Comments Link"
+msgstr ""
+
+#: include/post-options.php:51
+msgid "Hide Posted in Category"
+msgstr ""
+
+#: include/post-options.php:62
+msgid "Hide Tags"
+msgstr ""
+
+#: include/pro/pro.php:31 include/pro/pro.php:40
+msgid "AllX WordPress Theme"
+msgstr ""
+
+#: include/pro/pro.php:33
+msgid ""
+"We create free themes and have helped thousands of users to build their "
+"sites. You can also support us using the allx Pro theme with many new "
+"features and extensions."
+msgstr ""
+
+#: include/pro/pro.php:34 include/pro/pro.php:338
+msgid "Theme Demo"
+msgstr ""
+
+#: include/pro/pro.php:35 include/pro/pro.php:340
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: include/pro/pro.php:41
+msgid "Free WP Theme"
+msgstr ""
+
+#: include/pro/pro.php:42
+msgid "Premium WP Theme"
+msgstr ""
+
+#: include/pro/pro.php:45
+msgid "YouTybe Player"
+msgstr ""
+
+#: include/pro/pro.php:50
+msgid "MP4 Player"
+msgstr ""
+
+#: include/pro/pro.php:55
+msgid "Audio Tracks"
+msgstr ""
+
+#: include/pro/pro.php:60
+msgid "Featured Header Image on Each Single Page"
+msgstr ""
+
+#: include/pro/pro.php:65
+msgid "Timeline"
+msgstr "Timeline"
+
+#: include/pro/pro.php:70
+msgid "Search Filter by Post Name and Category"
+msgstr ""
+
+#: include/pro/pro.php:75
+msgid "Widget Top"
+msgstr ""
+
+#: include/pro/pro.php:80
+msgid "Widget Bottom"
+msgstr ""
+
+#: include/pro/pro.php:85
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: include/pro/pro.php:90
+msgid "Category Page - Video, Slider and Video Options"
+msgstr ""
+
+#: include/pro/pro.php:95
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: include/pro/pro.php:100
+msgid "Preloader"
+msgstr "Preloader"
+
+#: include/pro/pro.php:105
+msgid "About US"
+msgstr ""
+
+#: include/pro/pro.php:110
+msgid "Sidebar Position Single Pages"
+msgstr ""
+
+#: include/pro/pro.php:115
+msgid "Counter"
+msgstr "Counter"
+
+#: include/pro/pro.php:120
+msgid "Video Header"
+msgstr ""
+
+#: include/pro/pro.php:125
+msgid "Recent Posts Slider"
+msgstr ""
+
+#: include/pro/pro.php:130
+msgid "Popular Posts"
+msgstr "Popular Posts"
+
+#: include/pro/pro.php:135
+msgid "Page Right Sidebar"
+msgstr "Page Right Sidebar"
+
+#: include/pro/pro.php:140
+msgid "Page Left Sidebar"
+msgstr "Page Left Sidebar"
+
+#: include/pro/pro.php:145
+msgid "Blog Page"
+msgstr "Blog Page"
+
+#: include/pro/pro.php:150
+msgid "Blog Page Right Sidebar"
+msgstr ""
+
+#: include/pro/pro.php:155
+msgid "Blog Page Full Width"
+msgstr ""
+
+#: include/pro/pro.php:160
+msgid "Blog Page Three Columns"
+msgstr ""
+
+#: include/pro/pro.php:165
+msgid "Blog Page Two Columns"
+msgstr ""
+
+#: include/pro/pro.php:170
+msgid "Camera Slider"
+msgstr ""
+
+#: include/pro/pro.php:175
+msgid "Title Position"
+msgstr ""
+
+#: include/pro/pro.php:180
+msgid "One Click Demo Import"
+msgstr ""
+
+#: include/pro/pro.php:190
+msgid "WooCommerce My Account Icon"
+msgstr ""
+
+#: include/pro/pro.php:195
+msgid "Multiple Gallery"
+msgstr ""
+
+#: include/pro/pro.php:200
+msgid "Animations of all elements"
+msgstr ""
+
+#: include/pro/pro.php:205
+msgid "Header Options"
+msgstr "Header Options"
+
+#: include/pro/pro.php:210
+msgid "Hide Single Page Title"
+msgstr ""
+
+#: include/pro/pro.php:215
+msgid "Featured Image"
+msgstr "Featured Image"
+
+#: include/pro/pro.php:220
+msgid "WooCommerce Product Zoom"
+msgstr ""
+
+#: include/pro/pro.php:225
+msgid "WooCommerce Cart Options"
+msgstr ""
+
+#: include/pro/pro.php:230
+msgid "WooCommerce Pagination"
+msgstr ""
+
+#: include/pro/pro.php:236
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: include/pro/pro.php:241
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: include/pro/pro.php:246
+msgid "Color of All Elements"
+msgstr ""
+
+#: include/pro/pro.php:251
+msgid "Full Width Page"
+msgstr ""
+
+#: include/pro/pro.php:256
+msgid "Social Media Icons"
+msgstr "[Social Media Icons]"
+
+#: include/pro/pro.php:261
+msgid "Custom Footer Copyright"
+msgstr ""
+
+#: include/pro/pro.php:266
+msgid "Microdata"
+msgstr ""
+
+#: include/pro/pro.php:271
+msgid "Translation Ready"
+msgstr ""
+
+#: include/pro/pro.php:276
+msgid "Header Logo"
+msgstr "Header Logo"
+
+#: include/pro/pro.php:281
+msgid "Homepage Widgets"
+msgstr ""
+
+#: include/pro/pro.php:287
+msgid "Header Image"
+msgstr "Header Image"
+
+#: include/pro/pro.php:292
+msgid "Background Image"
+msgstr "Background Image"
+
+#: include/pro/pro.php:297
+msgid "404 Page Template"
+msgstr ""
+
+#: include/pro/pro.php:302
+msgid "Footer Widgets"
+msgstr "Footer Widgets"
+
+#: include/pro/pro.php:307
+msgid "WooCommerce Plugin Support"
+msgstr ""
+
+#: include/pro/pro.php:312
+msgid "Back to top button"
+msgstr ""
+
+#: include/pro/pro.php:317
+msgid "9 Top Icons"
+msgstr ""
+
+#: include/pro/pro.php:322
+msgid "Price List Shortcode"
+msgstr ""
+
+#: include/pro/pro.php:327 include/templates-home/layout-right.php:9
+msgid "Right Layout"
+msgstr ""
+
+#: include/pro/pro.php:332 include/templates-home/layout-left.php:13
+msgid "Left Layout"
+msgstr ""
+
+#: include/read-more-button.php:25
+msgid "Read More"
+msgstr "Read More"
+
+#: include/read-more-button.php:41
+msgid "Read More Button - Custom Text"
+msgstr ""
+
+#: include/search-query.php:39
+msgid "READ MORE"
+msgstr "READ MORE"
+
+#: include/sidebar-position.php:18 include/sidebar-position.php:50
+#: include/sidebar-position.php:78 include/sidebar-position.php:94
+msgid "No Sidebar"
+msgstr "No Sidebar"
+
+#: include/sidebar-position.php:33
+msgid "Sidebar Options"
+msgstr ""
+
+#: include/sidebar-position.php:34
+msgid ""
+"The sidebar options can only be used if there are active widgets in the "
+"sidebar. Also make sure you do not use a page template because in some case "
+"they take precedence over the sidebar position. Sidebar position for single "
+"page or post is available in the premium version of the theme."
+msgstr ""
+
+#: include/sidebar-position.php:43
+msgid "Sidebar Position Home Page"
+msgstr ""
+
+#: include/sidebar-position.php:59
+msgid "Deactivate All Widget Icons"
+msgstr ""
+
+#: include/sidebar-position.php:71
+msgid "Sidebar Position Blog and Archive Pages"
+msgstr ""
+
+#: include/sidebar-position.php:87
+msgid "Sidebar Position Categories"
+msgstr ""
+
+#: include/sidebar-position.php:105
+msgid "Sidebar Width in % "
+msgstr ""
+
+#: include/template-tags.php:53
+msgid ", "
+msgstr ""
+
+#: include/template-tags.php:60
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: include/template-tags.php:74
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: include/template-tags.php:91 template-parts/content-page.php:45
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: include/templates-home/layout-left.php:8
+msgid "Layouts"
+msgstr "Layouts"
+
+#: include/templates-home/layout-left.php:14
+msgid " The image is on the right and the content on the left"
+msgstr ""
+
+#: include/templates-home/layout-left.php:24
+#: include/templates-home/layout-right.php:20
+msgid "Activate Layout on Homepage."
+msgstr ""
+
+#: include/templates-home/layout-left.php:36
+#: include/templates-home/layout-right.php:31
+msgid "Title Text"
+msgstr "Title Text"
+
+#: include/templates-home/layout-left.php:47
+#: include/templates-home/layout-right.php:42
+msgid "Description Text"
+msgstr ""
+
+#: include/templates-home/layout-left.php:58
+#: include/templates-home/layout-right.php:53
+msgid "Button Text"
+msgstr "Button Text"
+
+#: include/templates-home/layout-left.php:68
+#: include/templates-home/layout-right.php:63
+msgid "Button URL"
+msgstr "Button URL"
+
+#: include/templates-home/layout-left.php:78
+#: include/templates-home/layout-right.php:73
+msgid "Load Image"
+msgstr "Load Image"
+
+#: include/templates-home/layout-left.php:87
+#: include/templates-home/layout-right.php:82
+msgid "Image Animation"
+msgstr ""
+
+#: include/templates-home/layout-left.php:97
+#: include/templates-home/layout-right.php:92
+msgid "Text Animation"
+msgstr ""
+
+#: include/templates-home/layout-left.php:109
+#: include/templates-home/layout-right.php:104
+msgid "Activate Arrow."
+msgstr ""
+
+#: include/templates-home/layout-left.php:120
+#: include/templates-home/layout-right.php:115
+msgid "Layout Text Color"
+msgstr ""
+
+#: include/templates-home/layout-left.php:130
+#: include/templates-home/layout-right.php:125
+msgid "Layout Background Color"
+msgstr ""
+
+#: include/templates-home/layout-left.php:160
+#: include/templates-home/layout-right.php:155
+msgid "Button Tex Color"
+msgstr ""
+
+#: include/templates-home/layout-right.php:10
+msgid " The image is on the left and the content on the right"
+msgstr ""
+
+#: include/ten-gallery/ten-gallery.php:104
+msgid "GALLERY"
+msgstr ""
+
+#: include/top-icons/top-icons.php:14
+msgid "flipInX"
+msgstr ""
+
+#: include/top-icons/top-icons.php:15
+msgid "flip"
+msgstr ""
+
+#: include/top-icons/top-icons.php:16
+msgid "flipInY"
+msgstr ""
+
+#: include/top-icons/top-icons.php:31
+msgid "headShake"
+msgstr ""
+
+#: include/top-icons/top-icons.php:32
+msgid "hinge"
+msgstr ""
+
+#: include/top-icons/top-icons.php:33
+msgid "jello"
+msgstr ""
+
+#: include/top-icons/top-icons.php:50
+msgid "zoomIn"
+msgstr ""
+
+#: include/top-icons/top-icons.php:82
+msgid "Top Icons"
+msgstr ""
+
+#: include/top-icons/top-icons.php:92
+msgid "Global Options "
+msgstr "Global Options "
+
+#: include/top-icons/top-icons.php:103
+msgid "Activate Icons"
+msgstr ""
+
+#: include/top-icons/top-icons.php:121
+msgid "Icon 1"
+msgstr ""
+
+#: include/top-icons/top-icons.php:131 include/top-icons/top-icons.php:324
+msgid "Icon Title"
+msgstr "Icon Title"
+
+#: include/top-icons/top-icons.php:142 include/top-icons/top-icons.php:239
+#: include/top-icons/top-icons.php:334
+msgid "Description"
+msgstr "Description"
+
+#: include/top-icons/top-icons.php:143 include/top-icons/top-icons.php:240
+#: include/top-icons/top-icons.php:335
+msgid " Description"
+msgstr ""
+
+#: include/top-icons/top-icons.php:153 include/top-icons/top-icons.php:345
+msgid "Icon URL"
+msgstr "Icon URL"
+
+#: include/top-icons/top-icons.php:163 include/top-icons/top-icons.php:260
+#: include/top-icons/top-icons.php:355
+msgid "Add Icon"
+msgstr "Add Icon"
+
+#: include/top-icons/top-icons.php:164 include/top-icons/top-icons.php:261
+#: include/top-icons/top-icons.php:356
+#, php-format
+msgid ""
+"%s Select icon and then copy HTML code. Put the code in the field below."
+msgstr ""
+
+#: include/top-icons/top-icons.php:173 include/top-icons/top-icons.php:270
+#: include/top-icons/top-icons.php:365
+msgid "Icon Color"
+msgstr "Icon Color"
+
+#: include/top-icons/top-icons.php:182 include/top-icons/top-icons.php:279
+#: include/top-icons/top-icons.php:374
+msgid "Icon Hover Color"
+msgstr "Icon Hover Color"
+
+#: include/top-icons/top-icons.php:193 include/top-icons/top-icons.php:290
+#: include/top-icons/top-icons.php:385
+msgid "Icon Animation"
+msgstr ""
+
+#: include/top-icons/top-icons.php:205 include/top-icons/top-icons.php:302
+#: include/top-icons/top-icons.php:397
+msgid "Animation Speed / millisecond "
+msgstr ""
+
+#: include/top-icons/top-icons.php:218
+msgid "Icon 2"
+msgstr ""
+
+#: include/top-icons/top-icons.php:228
+msgid " Icon Title"
+msgstr ""
+
+#: include/top-icons/top-icons.php:250
+msgid " Icon URL"
+msgstr ""
+
+#: include/top-icons/top-icons.php:314
+msgid "Icon 3"
+msgstr ""
+
+#: include/typography.php:12
+msgid "inherit"
+msgstr ""
+
+#: include/typography.php:13
+msgid "Helvetica"
+msgstr ""
+
+#: include/typography.php:14
+msgid "Arial"
+msgstr "Arial"
+
+#: include/typography.php:15
+msgid "Oswald"
+msgstr ""
+
+#: include/typography.php:16
+msgid "Verdana"
+msgstr "Verdana"
+
+#: include/typography.php:17
+msgid "Tahoma"
+msgstr ""
+
+#: include/typography.php:18
+msgid "Trebuchet MS"
+msgstr ""
+
+#: include/typography.php:19
+msgid "Impact"
+msgstr "Impact"
+
+#: include/typography.php:20
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: include/typography.php:21
+msgid "Courier"
+msgstr "Courier"
+
+#: include/typography.php:38 include/typography.php:64
+#: include/typography.php:87
+msgid "Inherit"
+msgstr "Inherit"
+
+#: include/typography.php:39
+msgid "Thin 100"
+msgstr "Thin 100"
+
+#: include/typography.php:40
+msgid "Extra Light 200"
+msgstr ""
+
+#: include/typography.php:41
+msgid "Light 300"
+msgstr "Light 300"
+
+#: include/typography.php:42
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: include/typography.php:43
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: include/typography.php:44
+msgid "Semi Bold 600"
+msgstr ""
+
+#: include/typography.php:45
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: include/typography.php:46
+msgid "Extra Bold 800"
+msgstr ""
+
+#: include/typography.php:47
+msgid "Ultra Bold 900"
+msgstr ""
+
+#: include/typography.php:66
+msgid "Capitalize"
+msgstr "Capitalize"
+
+#: include/typography.php:67
+msgid "Uppercase"
+msgstr "Uppercase"
+
+#: include/typography.php:68
+msgid "Lowercase"
+msgstr "Lowercase"
+
+#: include/typography.php:88
+msgid "Italic"
+msgstr "Italic"
+
+#: include/typography.php:113
+msgid "Typography"
+msgstr "Typography"
+
+#: include/typography.php:121
+msgid "Site Title"
+msgstr "Site Title"
+
+#: include/typography.php:132 include/typography.php:283
+#: include/typography.php:393 include/typography.php:546
+msgid "Font"
+msgstr "Font"
+
+#: include/typography.php:147 include/typography.php:299
+#: include/typography.php:409 include/typography.php:562
+msgid "Font Weight"
+msgstr "Font Weight"
+
+#: include/typography.php:162 include/typography.php:314
+#: include/typography.php:424 include/typography.php:577
+msgid "Text Transform"
+msgstr "Text Transform"
+
+#: include/typography.php:178 include/typography.php:330
+#: include/typography.php:440 include/typography.php:593
+msgid "Font Style"
+msgstr "Font Style"
+
+#: include/typography.php:196 include/typography.php:368
+#: include/typography.php:478 include/typography.php:631
+msgid "Font Size / px"
+msgstr ""
+
+#: include/typography.php:197 include/typography.php:217
+#: include/typography.php:239 include/typography.php:260
+#: include/typography.php:350 include/typography.php:369
+#: include/typography.php:460 include/typography.php:479
+#: include/typography.php:499 include/typography.php:520
+#: include/typography.php:613 include/typography.php:632
+#: include/typography.php:653 include/typography.php:674
+msgid "When the range is null, the default value is set."
+msgstr ""
+
+#: include/typography.php:216 include/typography.php:498
+#: include/typography.php:652
+msgid "Mobile Font Size / px"
+msgstr ""
+
+#: include/typography.php:238 include/typography.php:519
+#: include/typography.php:673
+msgid "Line Hight / em"
+msgstr ""
+
+#: include/typography.php:259 include/typography.php:349
+#: include/typography.php:459 include/typography.php:612
+msgid "Letter Spacing / px"
+msgstr ""
+
+#: include/typography.php:273
+msgid "Site Description"
+msgstr "Site Description"
+
+#: include/typography.php:383
+msgid "Titles"
+msgstr "Titles"
+
+#: include/typography.php:536
+msgid "Content"
+msgstr "Content"
+
+#: include/woocommerce/cart.php:14 include/woocommerce/cart.php:46
+msgid "View your cart"
+msgstr ""
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+
+#: template-parts/content-none.php:40
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:33 template-parts/content.php:80
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/content.php:70
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "AllX"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://seosthemes.com/allx-wordpress-theme/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "seosbg"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://seosthemes.com/"
+msgstr ""

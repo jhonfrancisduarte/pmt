@@ -1,0 +1,65 @@
+/*
+Description: Used to style Gutenberg Editor.
+*/
+body {
+    margin: 0;
+    color: #555;
+    font-size: 14px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+article {
+    vertical-align: top;
+    text-align: left;
+    width: 100%;
+    display: inline-block;
+    padding-top: 10px;
+    padding: 20px 20px;
+    background: #f8fafc;
+    border: 1px solid #ebeff2;
+}
+
+article p, p {
+    font-size: 1.1em;
+    line-height: 1.6em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    clear: both;
+    color: #555;
+    font-weight: 900;
+}
+
+.entry-header .entry-title {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0.67em 0;
+    font-weight: bold;
+}
+
+.edit-post-visual-editor__post-title-wrapper .editor-post-title {
+    font-weight: 900;
+}
+
+strong, b {
+    font-weight: 700;
+    color: #555;
+}
+
+article p a {
+    text-decoration: underline;
+}
+
+a {
+    color: #282828;
+}
+
+a:hover, a:active {
+    outline: 0;
+    color: #6AB0C4;
+	cursor: pointer;
+}

@@ -1,0 +1,308 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.govph-link a{
+	text-decoration: none !important;
+}
+
+.main-slider{
+	height: 700px;
+}
+
+.footer-link a{
+	text-decoration: none !important;
+	cursor: pointer;
+}
+
+.footer-link a:focus{
+	outline: none !important;
+	border: none;
+}
+
+.footer-link a:hover{
+	color: lightblue;
+}
+
+.hero-slider{
+	padding-left: 0px !important;
+    padding-right: 0 !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+	height: 700px;
+	overflow: hidden;
+}
+main .wp-block-group{
+	padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+a:focus{
+	outline: none !important;
+	border: none !important;
+}
+
+.statement{
+	margin-top: 0px !important;
+}
+
+@media (min-width: 768px){
+	.statement.st-1{
+		margin-bottom: 50px !important;
+	}
+}
+
+footer > div{
+	padding-top: 30px !important;
+}
+
+
+.footer-logo{
+	opacity: 0.3;
+}
+
+.search-bar{
+	margin-right: 30px !important;
+}
+
+.search-bar .wp-block-search__label{
+	display: none;
+}
+
+.search-bar :where(.wp-block-search__button-inside .wp-block-search__inside-wrapper){
+	border: none !important;
+}
+
+.search-bar div button{
+	position: absolute;
+    right: -30px;
+    height: 35px;
+    background: white;
+    border-radius: 0 20px 20px 0;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #6c6c6c;
+    width: 35px;
+}
+
+.search-bar div{
+	height: 35px;
+    padding: 0;
+	border-radius: 20px;
+}
+
+.hero-container{
+	pointer-events: none;
+}
+
+header{
+	position: relative;
+	z-index: 9;
+}
+
+.search-bar input{
+	border-radius: 20px 0 0 20px;
+	margin: 0 !important;
+	background: white;
+	font-size: 14px;
+}
+
+.search-bar input:focus{
+	border: none;
+}
+
+.top-navigation{
+	position: relative;
+	z-index: 9999;
+	height: 45px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.site-logos{
+	position: relative;
+	z-index: 9998;
+	background:  #ffffffe3;
+}
+
+body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)) {
+    max-width: var(--wp--style--global--content-size);
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100%;
+    max-width: 100% !important;
+}
+
+#pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a {
+    background-color: #4054b2;
+    color: #ffffff;
+    border-radius: 10px 0 0 10px;
+}
+
+#pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a:focus {
+    outline: none !important;
+	border: none;
+}
+
+.pojo-a11y-toolbar-link{
+	text-decoration: none;
+}
+
+.f-nav .menu{
+	list-style: none;
+	padding-inline-start: 0;
+}
+
+footer{
+	position: relative;
+}
+
+footer > div > div{
+	position: relative;
+	z-index: 1;
+}
+
+.bg-footer{
+	position: absolute;
+	top: 0; left: 0;
+	z-index: 0;
+}
+
+.bwg_image_info {
+    background: transparent !important;
+    border: 1px none #000000;
+    border-radius: 0px;
+    width: 100%;
+    padding: 10px 10px 44px 10px !important;
+    display: flex;
+    word-break: break-word;
+    justify-content: center;
+}
+
+.mCustomScrollBox {
+    background: #00000094;
+    padding: 15px;
+	width: 500px !important;
+	border-radius: 10px;
+}
+
+.bwg_image_title{
+    color: #ffffff !important;
+}
+
+.bwg_image_description{
+    color: #ffffff !important;
+}
+
+.tribe-common--breakpoint-medium.tribe-events .tribe-events-calendar-list__event {
+    position: relative;
+    z-index: 1;
+}
+
+.tribe-events-widget {
+    padding: 0 15px !important
+}
+
+.ect-list-post {
+    border-radius: 0 !important;
+}
+
+.assoc-activities-btn,
+.tpb-activities-btn{
+	margin-left: 20px;
+    margin-right: 20px;
+	cursor: pointer;
+	transition: all 0.2s ease-in-out;
+}
+
+.assoc-activities-btn:hover,
+.tpb-activities-btn:hover{
+	transform: scale(1.05);
+}
+
+/* Contact Form CSS */
+.col2{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.spacer{
+	width: 30px;
+	height: 0;
+}
+
+.required-mark{
+	color: red;
+}
+
+.contact-form-label{
+	font-weight: 600 !important;
+}
+
+.contact-form-label textarea,
+.contact-form-label input{
+	background: #fafafa !important;
+}
+
+.m-top{
+	margin-top: -20px !important;
+}
+
+.contact-form-1-btn-submit{
+	border-radius: 5px;
+}
+
+/* .current-menu-item > a {
+    color: #fff7da !important;
+}
+ */
+.current-menu-item {
+     border-bottom: 2px solid #fff7da;
+}
+
+.top-navigation::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 45px;
+    background: linear-gradient(to bottom, rgb(0 0 0 / 60%), rgb(0 0 0 / 10%));
+    pointer-events: none;
+}
+
+@media (max-width: 768px){
+	.mCustomScrollBox {
+		width: 100% !important;
+	}
+	
+	.col2{
+		display: block;
+	}
+}
+
+@media screen and (max-width: 999px) {
+    .wp-block-navigation__responsive-container-open svg path, .wp-block-navigation__responsive-container-close svg path {
+        fill: #ffffff !important;
+    }
+}
+
+@media (max-width: 1024px){
+	.top-navigation{
+		background: linear-gradient(0deg, rgba(57,90,176,1) 0%, rgba(32,50,97,1) 100%);
+		background-image: none !important;
+	}
+	
+	.top-navigation::before {
+		content: "";
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 0;
+		height: 0;
+	}
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

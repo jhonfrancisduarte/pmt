@@ -1,0 +1,46 @@
+.at-icons {
+    display: block;
+    max-width: 1226px;
+    margin: 0 auto;
+    padding:  0 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.at-icons .top_icons-container {
+	display: inline-block;
+	width: 31.3%;
+	margin: 10px;
+	text-align: left;
+    background: #F7F7F7;
+    border: 1px solid #d6d6d6;
+	padding: 20px;
+	vertical-align: top;
+}
+
+.at-icons .at-top-icon {
+	margin-bottom: 5px;
+
+}
+
+.at-icons .at-top-icon .dashicons {
+    position: relative;
+    font-size: 48px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    right: 7px;
+}
+
+.at-icons .top-icon-title {
+	font-weight: 800;
+	color: #555;
+	font-size: 22px;
+	margin-bottom: 5px;
+}
+
+.at-icons .top-icon-description {
+    font-size: 16px;
+    line-height: 20px;
+}

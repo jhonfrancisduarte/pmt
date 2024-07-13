@@ -1,0 +1,443 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tourister\n"
+"POT-Creation-Date: 2024-05-02 17:03+0530\n"
+"PO-Revision-Date: 2024-05-02 17:03+0530\n"
+"Last-Translator: \n"
+"Language-Team: Starthemes Team <support@flythemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_attr_e;esc_html_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp64\\www\\block-themes-test\\wp-content\\themes"
+"\\tourister\n"
+
+#: block-patterns.php:17
+msgid "Tourister"
+msgstr ""
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/about.php:47
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:58
+msgid "Getting Started with Tourister!"
+msgstr ""
+
+#: inc/about.php:59
+msgid ""
+"Awesome! Tourister has been installed and activated successfully. Now, you "
+"can start building your dream website with a wide range of highly-"
+"customizable block patterns, templates, and template parts available in this "
+"astounding theme."
+msgstr ""
+
+#: inc/about.php:65
+msgid "More Features with Tourister Pro Theme"
+msgstr ""
+
+#: inc/about.php:66
+msgid ""
+"To get more features and unique home page sections, we recommend you "
+"activate the Tourister Pro. With the pro theme installed, get more options "
+"like google fonts, colors, sliders, page template, shortcodes and more."
+msgstr ""
+
+#: inc/about.php:67
+msgid "Buy Tourister Pro"
+msgstr ""
+
+#: inc/about.php:76
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:78
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:79
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:86
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:87
+msgid ""
+"Loved Tourister? Feel free to leave your feedback. Your opinion helps us "
+"reach more audiences!"
+msgstr ""
+
+#: inc/about.php:88
+msgid "Review"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/activity.php:15
+msgid "Discover Weekly Acitivity"
+msgstr ""
+
+#: patterns/activity.php:21
+msgid "Discover Most Popular Adventure Tours Activities"
+msgstr ""
+
+#: patterns/activity.php:33
+msgid "Paragliding"
+msgstr ""
+
+#: patterns/activity.php:45
+msgid "City Tour"
+msgstr ""
+
+#: patterns/activity.php:57
+msgid "Beach Side"
+msgstr ""
+
+#: patterns/activity.php:69
+msgid "Mountain"
+msgstr ""
+
+#: patterns/activity.php:81
+msgid "Trekking"
+msgstr ""
+
+#: patterns/archive.php:54
+msgid "Sorry, No posts exists..."
+msgstr ""
+
+#: patterns/archive.php:65
+#: patterns/single.php:63
+msgid "Search"
+msgstr ""
+
+#: patterns/archive.php:75
+#: patterns/single.php:73
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/archive.php:99
+#: patterns/single.php:97
+msgid "Categories"
+msgstr ""
+
+#: patterns/archive.php:109
+#: patterns/single.php:107
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:119
+#: patterns/single.php:117
+msgid "Tags"
+msgstr ""
+
+#: patterns/banner.php:17
+msgid "Explore The World"
+msgstr ""
+
+#: patterns/banner.php:23
+msgid "Ready to start your exciting journey"
+msgstr ""
+
+#: patterns/banner.php:28
+msgid "Explore Tours"
+msgstr ""
+
+#: patterns/counter.php:20
+msgid "16,284 +"
+msgstr ""
+
+#: patterns/counter.php:24
+msgid "Tours & Holidays"
+msgstr ""
+
+#: patterns/counter.php:38
+msgid "23,653 +"
+msgstr ""
+
+#: patterns/counter.php:42
+msgid "Trip Reviews"
+msgstr ""
+
+#: patterns/counter.php:56
+msgid "135 +"
+msgstr ""
+
+#: patterns/counter.php:60
+msgid "Countries Covered"
+msgstr ""
+
+#: patterns/counter.php:74
+msgid "1,700 +"
+msgstr ""
+
+#: patterns/counter.php:78
+msgid "Tour Operators"
+msgstr ""
+
+#: patterns/destinations.php:15
+msgid "Top Destinations"
+msgstr ""
+
+#: patterns/destinations.php:21
+msgid "Travel Is The Perfect Destinations Places To Go"
+msgstr ""
+
+#: patterns/destinations.php:35
+msgid "Alcatraz Island"
+msgstr ""
+
+#: patterns/destinations.php:39
+#: patterns/destinations.php:55
+#: patterns/destinations.php:71
+#: patterns/destinations.php:87
+#: patterns/destinations.php:105
+#: patterns/destinations.php:121
+#: patterns/destinations.php:137
+#: patterns/destinations.php:153
+msgid "0 - Tour Available"
+msgstr ""
+
+#: patterns/destinations.php:51
+msgid "Auckland"
+msgstr ""
+
+#: patterns/destinations.php:67
+msgid "Beijing"
+msgstr ""
+
+#: patterns/destinations.php:83
+msgid "Buckingham Palace"
+msgstr ""
+
+#: patterns/destinations.php:101
+msgid "Burj Al Arab"
+msgstr ""
+
+#: patterns/destinations.php:117
+msgid "Burj Khalifa"
+msgstr ""
+
+#: patterns/destinations.php:133
+msgid "Cape Town"
+msgstr ""
+
+#: patterns/destinations.php:149
+msgid "Dubai"
+msgstr ""
+
+#: patterns/destinations.php:163
+#: patterns/tours.php:311
+msgid "View More Destination"
+msgstr ""
+
+#: patterns/footer.php:28
+msgid "Need any support for tour & travels ?"
+msgstr ""
+
+#: patterns/footer.php:42
+msgid "Ready to Get Started With Vacations!"
+msgstr ""
+
+#: patterns/footer.php:59
+msgid ""
+"Welcome to the best travel agency where you can find tons of tours to any "
+"place on Earth."
+msgstr ""
+
+#: patterns/footer.php:68
+#: patterns/header.php:24
+msgid "2972 Westheimer Rd. Illinois, USA"
+msgstr ""
+
+#: patterns/footer.php:78
+#: patterns/header.php:56
+msgid "(+123) 4567 890"
+msgstr ""
+
+#: patterns/footer.php:88
+#: patterns/header.php:40
+msgid "info@sitename.com"
+msgstr ""
+
+#: patterns/footer.php:98
+msgid "08:00 AM - 22:00 PM"
+msgstr ""
+
+#: patterns/footer.php:108
+msgid "Explore Services"
+msgstr ""
+
+#: patterns/footer.php:117
+msgid ">> Domestic Flights"
+msgstr ""
+
+#: patterns/footer.php:121
+msgid ">> International Flights"
+msgstr ""
+
+#: patterns/footer.php:125
+msgid ">> Tours & Holidays"
+msgstr ""
+
+#: patterns/footer.php:129
+msgid ">> Domestic Hotels"
+msgstr ""
+
+#: patterns/footer.php:133
+msgid ">> International Hotels"
+msgstr ""
+
+#: patterns/footer.php:137
+msgid ">> Cruise Holidays"
+msgstr ""
+
+#: patterns/footer.php:141
+msgid ">> Car Rental"
+msgstr ""
+
+#: patterns/footer.php:149
+#: patterns/latest-news.php:15
+msgid "Recent News Feed"
+msgstr ""
+
+#: patterns/footer.php:177
+msgid "Newsletter"
+msgstr ""
+
+#: patterns/footer.php:186
+msgid "You will be notified when something new will be appear."
+msgstr ""
+
+#: patterns/footer.php:197
+msgid "Stay Connected"
+msgstr ""
+
+#: patterns/footer.php:206
+msgid "Follow Us On Social Media Channels"
+msgstr ""
+
+#: patterns/footer.php:229
+msgid "© Copyright 2024. All Rights Reserved."
+msgstr ""
+
+#: patterns/footer.php:233
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer.php:233
+msgid "Star Themes"
+msgstr ""
+
+#: patterns/footer.php:233
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:233
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:233
+msgid "WordPress"
+msgstr ""
+
+#: patterns/latest-news.php:21
+msgid "Amazing News & Blog For Every Single Update"
+msgstr ""
+
+#: patterns/tours.php:15
+msgid "Featured Tours"
+msgstr ""
+
+#: patterns/tours.php:21
+msgid "World Leading Tours Booking Platform"
+msgstr ""
+
+#: patterns/tours.php:36
+#: patterns/tours.php:82
+#: patterns/tours.php:128
+#: patterns/tours.php:176
+#: patterns/tours.php:222
+#: patterns/tours.php:268
+msgid "10 Days 9 Nights"
+msgstr ""
+
+#: patterns/tours.php:44
+#: patterns/tours.php:90
+#: patterns/tours.php:136
+#: patterns/tours.php:184
+#: patterns/tours.php:230
+#: patterns/tours.php:276
+msgid "Expired"
+msgstr ""
+
+#: patterns/tours.php:52
+msgid "Gardens By The Bay"
+msgstr ""
+
+#: patterns/tours.php:60
+#: patterns/tours.php:106
+#: patterns/tours.php:152
+#: patterns/tours.php:200
+#: patterns/tours.php:246
+#: patterns/tours.php:292
+msgid ""
+"Morbi cursus ut tellus et mollis. Vestibulum ante ipsum primis in faucibus "
+"orci luctus et ultrices posuere cubilia curae; Donec et"
+msgstr ""
+
+#: patterns/tours.php:69
+#: patterns/tours.php:115
+#: patterns/tours.php:161
+#: patterns/tours.php:209
+#: patterns/tours.php:255
+#: patterns/tours.php:301
+msgid "Explore"
+msgstr ""
+
+#: patterns/tours.php:98
+msgid "Central Tibet Culture Tour"
+msgstr ""
+
+#: patterns/tours.php:144
+msgid "Naples City Italy"
+msgstr ""
+
+#: patterns/tours.php:192
+msgid "Tokyo Sensō-ji"
+msgstr ""
+
+#: patterns/tours.php:238
+msgid "Great Wall of China"
+msgstr ""
+
+#: patterns/tours.php:284
+msgid "Burj Khalifa Dubai"
+msgstr ""

@@ -1,0 +1,153 @@
+.ten-wrap {
+    display: none;
+}
+
+.ten-gallery {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 800px;
+    height: 560px;
+    z-index: 9999999;
+    background: #111;
+    padding: 10px;
+    border: 5px solid #222;
+}
+
+.ten-gallery .close-ten {
+    position: absolute;
+    z-index: 99999999;
+    right: -12px;
+    top: -12px;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    background: rgb(255, 0, 0, 0.5);
+    color: #fff;
+    font-weight: 900;
+    cursor: pointer;
+	text-align: center;
+}
+
+.ten-gallery .close-ten:hover {
+	background: #D11919;
+}
+
+.ten-cont {
+	position: relative;
+}
+
+.show_img {
+    display: block;
+    width: auto;
+    height: 350px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.all-images {
+	width: 60px;
+	height: 60px;
+}
+
+.all_desc {
+	display: none;
+}
+
+.ten-gallery .mySlides {
+	display: none
+}
+
+.ten-gallery img {
+	vertical-align: middle;
+	height: 500px;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	object-fit: cover;
+}
+
+/* Slideshow container */
+.ten-gallery .slideshow-container {
+	max-width: 100%;
+	position: relative;
+	margin: auto;
+}
+
+.slideshow-container p {
+	margin-top: 5px;
+	color: #C0C0C0;
+}
+
+
+/* Next  previous buttons */
+.ten-gallery .ten-cont .prev-ten {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 40px;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    background: #333;
+}
+
+.ten-gallery .ten-cont .next-ten  {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    width: 40px;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    background: #333;	
+}
+
+/* Position the "next button" to the right */
+.ten-gallery  .next-ten {
+	right: 0;
+	border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.ten-gallery .prev-ten:hover, .ten-gallery .next-ten:hover {
+	background-color: rgba(0,0,0,0.8);
+}
+
+/* Fading animation */
+.ten-gallery .fade {
+	animation-name: fade;
+	animation-duration: 2.5s;
+}
+
+@keyframes fade {
+	from {opacity: 0} 
+	to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 500px) {
+	.ten-gallery {
+	    width: 300px;
+		height: 180px;
+	}
+
+	.ten-gallery img {
+		height: 130px;	
+	}
+}

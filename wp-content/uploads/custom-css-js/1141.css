@@ -1,0 +1,127 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+#main-content{
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+#main-content .row{
+	width: 100% !important;
+	max-width: 100% !important;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+#main-nav{
+	z-index: 9998 !important;
+}
+
+#content {
+	width: 100% !important;
+	max-width: 100% !important;
+	position: relative !important;
+	left: 0 !important;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+#sidebar-left{
+	display: none !important;
+}
+
+.container-masthead,
+.container-banner{
+	display: none !important;
+}
+
+#back-to-top{
+	display: none !important;
+}
+
+.top-bar-left{
+	float: right !important;
+}
+
+.top-bar-right{
+	display: none !important;
+}
+
+.nav-item{
+	display: none !important;
+}
+
+
+.menu-item a{
+	text-transform: uppercase;
+    font-family: Bara Bara !important;
+    font-weight: 400;
+	color: #1E3365 !important;
+    font-size: 10px !important;
+    letter-spacing: 1.2px !important;
+}
+
+.menu-item:hover a {
+	font-size: 10px !important;
+	font-weight: normal !important;
+}
+
+.top-site-logo{
+	position: absolute;
+	width: fit-content;
+	height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.top-site-logo img{
+	width: 110px;
+}
+
+.main-footer{
+	font-family: helvetica neue, helvetica, Helvetica, Arial, sans-serif;
+}
+
+.main-footer a{
+	color: #7A7A7A;
+}
+
+.main-footer a:hover{
+	text-decoration: underline;
+}
+
+@media (max-width: 1024px){
+	#main-nav{
+		display: none !important;
+	}
+	
+	#mySidenav{
+		z-index: 9999 !important;
+		
+	}
+	
+	#mySidenav ul{
+		padding-left: 20px !important;
+	}
+	
+	#aux-offmenu,
+	.search-form{
+		display: none;
+	}
+	
+	#openNav{
+		z-index: 9998;
+		color: #1E3365 !important;
+		position: fixed !important;
+        right: 15px !important;
+        top: 18px !important;
+	}
+	
+	.menu-icon:after {
+		content: "";
+		width: 0 !important;
+		height: 0 !important;
+		background: transparent !important;
+		box-shadow: none !important;
+	}
+}</style>
+<!-- end Simple Custom CSS and JS -->

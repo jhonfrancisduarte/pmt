@@ -1,0 +1,122 @@
+/**
+	* Checkbox Toggle UI
+*/
+#customize-theme-controls input[type="checkbox"] {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	-webkit-tap-highlight-color: transparent;
+	width: auto;
+	height: auto;
+	vertical-align: middle;
+	position: relative;
+	border: 0;
+	outline: 0;
+	cursor: pointer;
+	background: none;
+	box-shadow: none;
+}
+#customize-theme-controls input[type="checkbox"]:focus {
+	box-shadow: none;
+}
+#customize-theme-controls input[type="checkbox"]:after {
+	content: '';
+	font-size: 8px;
+	font-weight: 400;
+	line-height: 18px;
+	text-indent: -14px;
+	color: #ffffff;
+	width: 36px;
+	height: 18px;
+	display: inline-block;
+	background-color: #064441;
+	border-radius: 72px;
+	box-shadow: 0 0 12px rgb(0 0 0 / 15%) inset;
+}
+#customize-theme-controls input[type="checkbox"]:before {
+	content: '';
+	width: 14px;
+	height: 14px;
+	display: block;
+	position: absolute;
+	top: 2px;
+	left: 2px;
+	margin: 0;
+	border-radius: 50%;
+	background-color: #ffffff;
+}
+#customize-theme-controls input[type="checkbox"]:checked:before {
+	left: 20px;
+	margin: 0;
+	background-color: #ffffff;
+}
+#customize-theme-controls input[type="checkbox"],
+#customize-theme-controls input[type="checkbox"]:before,
+#customize-theme-controls input[type="checkbox"]:after,
+#customize-theme-controls input[type="checkbox"]:checked:before,
+#customize-theme-controls input[type="checkbox"]:checked:after {
+	transition: ease .15s;
+}
+#customize-theme-controls input[type="checkbox"]:checked:after {
+	content: 'ON';
+	background-color: #064441;
+}
+#_customize-input-xmrf_shortcode,
+#_customize-input-xmlf_shortcode,
+#_customize-input-allx_shortcode_top_news,
+#_customize-input-allx__shortcode_top_news {
+	display: none;
+}
+
+.control-section-allx .accordion-section-title a {
+	width: 100%;
+	padding: 10px;
+	margin-top: 10px;
+	font-size: 1em !important;
+	background: #008989;
+}
+
+body .control-section-allx .accordion-section-title {
+	padding: 20px;	
+	font-size: 2em !important;
+	font-weight: 900;
+}	
+.control-section-allx  {
+	text-align: center;
+	width: 100%;
+	display: inline-grid;
+	
+}
+.hidden-help {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: 0%;
+	width: 350px !important;
+}
+
+.seos-img {
+	width: 20px;
+	height: 20px;
+}
+
+.seos-help {
+	position: relative;
+	display: inline;
+}
+
+.seos-help:hover .seos-img {
+	opacity: 0.7;
+}
+
+.seos-help:hover > .hidden-help {
+	display: block;
+	position: absolute;
+	min-width: 300px !important;
+	top: 30px;
+	z-index: 9;
+}
+.customize-control {
+	position:relative
+}
+
